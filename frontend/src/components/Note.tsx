@@ -1,4 +1,4 @@
-import react from 'react'
+// import react from 'react'
 import "../styles/Note.css"
 interface Note {
     id: number;
